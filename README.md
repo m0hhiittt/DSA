@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/m0hhiittt/DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/m0hhiittt/DSA/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m0hhiittt/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
