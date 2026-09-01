@@ -6,7 +6,7 @@ public class Solution {
         int right = arr.Length -1;
 
         for(int i=0; i<arr.Length; i++){
-            if (left >= right)
+            if (left>= right)
                 break;
 
             if(!IsVowel(arr[left])){
