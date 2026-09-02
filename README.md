@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/m0hhiittt/DSA/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/m0hhiittt/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/m0hhiittt/DSA/tree/master/1768-merge-strings-alternately) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
