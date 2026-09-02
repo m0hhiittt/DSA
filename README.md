@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/m0hhiittt/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/m0hhiittt/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/m0hhiittt/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/m0hhiittt/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/m0hhiittt/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
