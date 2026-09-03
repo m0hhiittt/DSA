@@ -1,17 +1,24 @@
 public class Solution {
     public int MajorityElement(int[] nums) {
+        Array.Sort(nums);
         
-        for(int i = 0; i<nums.Length; i++){
-            int frequency = 0; 
-            for(int j= 0; j<nums.Length; j++){
-                if(nums[i] == nums[j]){
-                   frequency++;
-                }
+        int freq = 1; 
+        int ans  = nums[0];
+
+        for(int i = 1; i<nums.Length; i++){
+            if(nums[i] == nums[i-1]){
+                freq++;
             }
-            if(frequency > nums.Length/2){
-                return nums[i];
+            else{
+                freq = 1;
+                ans = nums[i];
             }
+
+            if (freq > nums.Length / 2){
+                return ans;
+            }
+
         }
-        return -1;
+        return ans;
     }
 }
