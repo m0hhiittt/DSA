@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/m0hhiittt/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/m0hhiittt/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/m0hhiittt/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m0hhiittt/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -50,8 +52,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
