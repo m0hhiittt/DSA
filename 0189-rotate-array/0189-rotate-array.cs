@@ -1,10 +1,10 @@
 public class Solution {
     public void Rotate(int[] nums, int k){
-        k = k % nums.Length;
+        k = k%nums.Length;
 
-        reverse(nums, 0, nums.Length - 1);
-        reverse(nums, 0, k - 1);
-        reverse(nums, k, nums.Length - 1);
+        reverse(nums, 0, nums.Length-1);
+        reverse(nums,0, k-1);
+        reverse(nums, k, nums.Length-1);
     }
 
     private void reverse(int[] nums, int left, int right){
