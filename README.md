@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/m0hhiittt/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/m0hhiittt/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/m0hhiittt/DSA/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/m0hhiittt/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/m0hhiittt/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/m0hhiittt/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/m0hhiittt/DSA/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/m0hhiittt/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
